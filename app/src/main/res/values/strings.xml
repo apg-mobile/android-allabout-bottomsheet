@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AllAboutButtomSheet</string>
+    <string name="skip"><![CDATA[<u>Skip</u>]]></string>
+    <string name="rating_delivery">RATING DELIVERY</string>
+</resources>
